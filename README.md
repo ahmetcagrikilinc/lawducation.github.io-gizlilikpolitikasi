@@ -4,7 +4,7 @@
 Güvenliğiniz bizim için önemli. Bu sebeple bizimle paylaşacağınız kişisel verileriz hassasiyetle korunmaktadır.
 </p>
 <p>
-Biz, Acil Numaralar, veri sorumlusu olarak, bu gizlilik ve kişisel verilerin korunması politikası ile,
+Biz, Lawducation, veri sorumlusu olarak, bu gizlilik ve kişisel verilerin korunması politikası ile,
 hangi kişisel verilerinizin hangi amaçla işleneceği, işlenen verilerin kimlerle ve neden paylaşılabileceği,
 veri işleme yöntemimiz ve hukuki sebeplerimiz ile; işlenen verilerinize ilişkin haklarınızın neler
 olduğu hususunda sizleri aydınlatmayı amaçlıyoruz.
@@ -53,10 +53,9 @@ kuruluşlara ve talep halinde adli ve idari makamlara, gerekli teknik ve idari
 <li>İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,</li>
 <li>Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme, haklarına sahiptir.</li>
 </ol>
-<p>Yukarıda sayılan haklarınızı kullanmak üzere info.acilnumaralar@gmail.com üzerinden bizimle iletişime geçebilirsiniz.</p>
+<p>Yukarıda sayılan haklarınızı kullanmak üzere info@lawducation.co üzerinden bizimle iletişime geçebilirsiniz.</p>
 <h2>İletişim</h2>
 <p>
 Sizlere talepleriniz doğrultusunda hizmet sunabilmek amacıyla, sadece gerekli olan kişisel verilerinizin,
-işbu gizlilik ve kişisel verilerin işlenmesi politikası uyarınca işlenmesini, kabul edip etmemek hususunda tamamen özgürsünüz. Uygulamayı kullanmaya devam ettiğiniz takdirde, kabul etmiş olduğunuz tarafımızca varsayılacaktır. Şayet kabul etmiyorsanız, lütfen uygulamayı tüm cihazlarınızdan kaldırınız. Ayrıntılı bilgi için bizimle info.acilnumaralar@gmail.com e-mail adresi üzerinden iletişime geçmekten lütfen çekinmeyiniz.
+işbu gizlilik ve kişisel verilerin işlenmesi politikası uyarınca işlenmesini, kabul edip etmemek hususunda tamamen özgürsünüz. Uygulamayı kullanmaya devam ettiğiniz takdirde, kabul etmiş olduğunuz tarafımızca varsayılacaktır. Şayet kabul etmiyorsanız, lütfen uygulamayı tüm cihazlarınızdan kaldırınız. Ayrıntılı bilgi için bizimle info@lawducation.co e-mail adresi üzerinden iletişime geçmekten lütfen çekinmeyiniz.
 </p>
-<p>Bu gizlilik politikası, <a href="https://sartlar.com">https://sartlar.com</a> aracılığıyla oluşturulmuştur.</p>
