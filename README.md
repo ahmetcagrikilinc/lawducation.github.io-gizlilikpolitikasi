@@ -1,5 +1,5 @@
 <h1>Gizlilik Politikası</h1>
-<p>Son güncellenme: 02/07/2024</p>
+<p>Son güncellenme: 01/01/2025</p>
 <p>
 Güvenliğiniz bizim için önemli. Bu sebeple bizimle paylaşacağınız kişisel verileriz hassasiyetle korunmaktadır.
 </p>
